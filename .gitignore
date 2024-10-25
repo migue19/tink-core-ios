@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+build/
+xcuserdata/
+IDEWorkspaceChecks.plist
+Pods/
+*.xcworkspace
+.swiftpm/
+TinkCore.xcframework.zip
+TinkCore.xcodeproj
+buildkite.yml
+.secrets.baseline
